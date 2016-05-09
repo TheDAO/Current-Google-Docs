@@ -1,4 +1,4 @@
-# Current Google Docs
+# Proposals in the Works
 
 DAOhub Plan https://docs.google.com/document/d/1hHX_ftHc1B84yiHpGPToCLFeORaRIVy7mR_Hh1PqSus/edit
 
